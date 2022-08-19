@@ -46,14 +46,49 @@ There was no challenges/difficulties while performing this particular analysis. 
 
 ## Analysis on Outcomes Based on Goals Chart
 
-For the second deliverable `Outcomes Based on Goals Chart`  clients need the data  
+For the second deliverable `Outcomes Based on Goals Chart`  clients need the analysis for the past campaigns based on the Goal amount.
+client provided the funds distributions ( By goal range ) in the increment of 5000$ on the range of 5000 and up and two ranges 0-1000 & 1000-4999.
+Below two graphs for fundraising campaigns represent the successful , failed and cancelled campaigns and their Percentage.
 
 
-## Challenges faced: on Outcomes Based on Launch Date Chart 
+As the analysis of the graph we noticed that the fundraisers less than 1000$ have 76% success rate and between 1000-5000 had 73% success rate.
+Based on the graph we noticed that if the fund goal is increasing more than 40K it is likely to failed. 
+
+If a fundraisers want to raise the fund with greater goal , it should be divided in multiple campaigns to successful. 
+
+![image](https://user-images.githubusercontent.com/22928255/185522482-5f4970f3-2a33-44b9-b674-73ef12f75ef4.png)
+
+ ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/22928255/185522297-8ccfe2ff-8d15-49a7-84dc-8c468c4c59ee.png)
+
+
+## Challenges faced: on Outcomes Based on Goals Chart
+
+There was no challenges/difficulties while performing this particular analysis. If client need further analysis on this category that may drive to the difficult level up.
+1. Include the analysis for backers 
+2. Duration for the campaign which generate more fund .
+3. Analysis by year / Month for this campaigns.
 
 
 
 
+# Result 
 
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-#  Results
+    - The Fundraisers started in May/June have high probability to succeeding.
+    - The Fundraisers should avoid the Dec for starting a Fundraisers campaign .
+
+- What can you conclude about the Outcomes based on Goals?
+
+    - Any Goals that are less than 5000$ have high Percentage to be successful. 
+
+- What are some limitations of this dataset?
+
+    - This data set is divided in multiple country and should have more data. We need to consider the geographically        comapign pattern.
+
+- What are some other possible tables and/or graphs that we could create?
+
+   -  Outcomes by country of launch
+   -  Bakers for each campaign and their avg share to contribute.
+   -  Duration for a comapign. 
+
